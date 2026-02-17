@@ -1,6 +1,5 @@
 
 //Functional_Interface
-package java8Features;
 interface Voter{
     void checkVoter(int age);
 }

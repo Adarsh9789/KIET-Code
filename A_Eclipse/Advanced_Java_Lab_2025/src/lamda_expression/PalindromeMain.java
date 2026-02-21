@@ -16,21 +16,3 @@ public class PalindromeMain {
         System.out.println(cp.checkPalin("madam"));  // true
 	}
 	}
-
-//
-//@FunctionalInterface
-//interface CheckPalindrome {
-//    boolean checkPalin(String info);
-//}
-//
-//public class PalindromeMain {
-//
-//    public static void main(String[] args) {
-//
-//        CheckPalindrome cp = info -> 
-//            new StringBuilder(info).reverse().toString().equals(info);
-//
-//        System.out.println(cp.checkPalin("Ayush"));  // false
-//        System.out.println(cp.checkPalin("madam"));  // true
-//    }
-//}

@@ -19,25 +19,32 @@ public class RealNumber {
 		
 		System.out.println(f);
 		
-		float g = 01231;
-		System.out.println(g);
+		float g = 36.43233223423423424232F;
+		float h = 12.1314433324233242F;
+		
+		float i = g+h;
+		
+		System.out.println(i);
+		
+		float j = 01231;
+		System.out.println(j);
 
-		float h = 1231;
-		System.out.println(h);
-		
-		double i = 2.23242423;
-		double j = 2.123124124124132;
-		
-		double k = i+j;
-		
+		float k = 1231;
 		System.out.println(k);
-
-		double l = 21.2324242365862424;
-		double m = 49.123124124124132;
+		
+		double l = 2.23242423;
+		double m = 2.123124124124132;
 		
 		double n = l+m;
 		
 		System.out.println(n);
+
+		double o = 21.2324242365862424;
+		double p = 49.123124124124132;
+		
+		double q = o+p;
+		
+		System.out.println(q);
 
 		
 	}
